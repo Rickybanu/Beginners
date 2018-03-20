@@ -1,4 +1,4 @@
-odd = int(input("Enter a number: "))
+odd = int(input())
 if (odd % 2) == 0:
    print("Even")
 else:
